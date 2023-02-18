@@ -1,0 +1,4 @@
+The quick brown fox
+jumps over the lazy dog.
+The dog barks at the moon.
+The moon shines bright.
